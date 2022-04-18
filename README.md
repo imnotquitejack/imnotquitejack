@@ -2,7 +2,6 @@ Hi, I'm Jack. I'm a software and technology enthusiast working on projects of co
 
 I'm enthusiastic about:
 * being a dad and husband
-* Ruby on Rails
 * Scientific American magazine
 * Inner Tube Water Polo
 * photography
