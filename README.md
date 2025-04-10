@@ -2,8 +2,7 @@ Hi, I'm Jack. I'm a software and technology enthusiast working on projects of co
 
 I'm enthusiastic about:
 * being a dad and husband
-* Scientific American magazine
-* Inner Tube Water Polo
+* healthcare interoperability
 * photography
 * drones
 * genealogy and digitizing legacies
